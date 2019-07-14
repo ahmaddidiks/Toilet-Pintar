@@ -1,0 +1,2 @@
+# Toilet-Pintar
+Toilet pintar dengan sistem penyiraman otomatis apabila pengguana lupa menyiram toilet setelah keluar dan ada sisi edukasinya dengan penambahan buzzer selama 10 detik sebelum sistem menyiram untuk mengingatkan pengguna, apabial pengguana segera menyiram toilet setelah buzzer bunyi maka sistem akan mendeteksi bahwa pengguana telah menyiram toilet dan toilet bersih sehingga sistem tidak menyiramnya, namun jika pengguana tidak menyiramnya maka sistem akan menyiram toilet yang kotor secara otomatis.
